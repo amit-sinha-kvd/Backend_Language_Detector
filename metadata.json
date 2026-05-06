@@ -1,0 +1,6 @@
+{
+  "name": "Language Detector AI",
+  "description": "A sophisticated machine learning web application that identifies the language of any given text using scikit-learn models and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
